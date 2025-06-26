@@ -68,5 +68,5 @@ Com o entendimento de que serviços extras tendem a manter mais o cliente, assim
 
 👤 Autor
     • Veronica Carvalho
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn https://www.linkedin.com/in/ver%C3%B4nica-carvalho
+💻 GitHub https://github.com/VeronicaDSC
